@@ -1,0 +1,16 @@
+C:\projetos\C#POO\ProductSolution\ProductSolution\bin\Debug\net5.0\ProductSolution.exe
+C:\projetos\C#POO\ProductSolution\ProductSolution\bin\Debug\net5.0\ProductSolution.deps.json
+C:\projetos\C#POO\ProductSolution\ProductSolution\bin\Debug\net5.0\ProductSolution.runtimeconfig.json
+C:\projetos\C#POO\ProductSolution\ProductSolution\bin\Debug\net5.0\ProductSolution.runtimeconfig.dev.json
+C:\projetos\C#POO\ProductSolution\ProductSolution\bin\Debug\net5.0\ProductSolution.dll
+C:\projetos\C#POO\ProductSolution\ProductSolution\bin\Debug\net5.0\ref\ProductSolution.dll
+C:\projetos\C#POO\ProductSolution\ProductSolution\bin\Debug\net5.0\ProductSolution.pdb
+C:\projetos\C#POO\ProductSolution\ProductSolution\obj\Debug\net5.0\ProductSolution.csproj.AssemblyReference.cache
+C:\projetos\C#POO\ProductSolution\ProductSolution\obj\Debug\net5.0\ProductSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\C#POO\ProductSolution\ProductSolution\obj\Debug\net5.0\ProductSolution.AssemblyInfoInputs.cache
+C:\projetos\C#POO\ProductSolution\ProductSolution\obj\Debug\net5.0\ProductSolution.AssemblyInfo.cs
+C:\projetos\C#POO\ProductSolution\ProductSolution\obj\Debug\net5.0\ProductSolution.csproj.CoreCompileInputs.cache
+C:\projetos\C#POO\ProductSolution\ProductSolution\obj\Debug\net5.0\ProductSolution.dll
+C:\projetos\C#POO\ProductSolution\ProductSolution\obj\Debug\net5.0\ref\ProductSolution.dll
+C:\projetos\C#POO\ProductSolution\ProductSolution\obj\Debug\net5.0\ProductSolution.pdb
+C:\projetos\C#POO\ProductSolution\ProductSolution\obj\Debug\net5.0\ProductSolution.genruntimeconfig.cache
