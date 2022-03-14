@@ -1,0 +1,16 @@
+C:\projetos\C#POO\ExPessoaSolution\ExPessoaSolution\bin\Debug\net5.0\ExPessoaSolution.exe
+C:\projetos\C#POO\ExPessoaSolution\ExPessoaSolution\bin\Debug\net5.0\ExPessoaSolution.deps.json
+C:\projetos\C#POO\ExPessoaSolution\ExPessoaSolution\bin\Debug\net5.0\ExPessoaSolution.runtimeconfig.json
+C:\projetos\C#POO\ExPessoaSolution\ExPessoaSolution\bin\Debug\net5.0\ExPessoaSolution.runtimeconfig.dev.json
+C:\projetos\C#POO\ExPessoaSolution\ExPessoaSolution\bin\Debug\net5.0\ExPessoaSolution.dll
+C:\projetos\C#POO\ExPessoaSolution\ExPessoaSolution\bin\Debug\net5.0\ref\ExPessoaSolution.dll
+C:\projetos\C#POO\ExPessoaSolution\ExPessoaSolution\bin\Debug\net5.0\ExPessoaSolution.pdb
+C:\projetos\C#POO\ExPessoaSolution\ExPessoaSolution\obj\Debug\net5.0\ExPessoaSolution.csproj.AssemblyReference.cache
+C:\projetos\C#POO\ExPessoaSolution\ExPessoaSolution\obj\Debug\net5.0\ExPessoaSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\C#POO\ExPessoaSolution\ExPessoaSolution\obj\Debug\net5.0\ExPessoaSolution.AssemblyInfoInputs.cache
+C:\projetos\C#POO\ExPessoaSolution\ExPessoaSolution\obj\Debug\net5.0\ExPessoaSolution.AssemblyInfo.cs
+C:\projetos\C#POO\ExPessoaSolution\ExPessoaSolution\obj\Debug\net5.0\ExPessoaSolution.csproj.CoreCompileInputs.cache
+C:\projetos\C#POO\ExPessoaSolution\ExPessoaSolution\obj\Debug\net5.0\ExPessoaSolution.dll
+C:\projetos\C#POO\ExPessoaSolution\ExPessoaSolution\obj\Debug\net5.0\ref\ExPessoaSolution.dll
+C:\projetos\C#POO\ExPessoaSolution\ExPessoaSolution\obj\Debug\net5.0\ExPessoaSolution.pdb
+C:\projetos\C#POO\ExPessoaSolution\ExPessoaSolution\obj\Debug\net5.0\ExPessoaSolution.genruntimeconfig.cache
