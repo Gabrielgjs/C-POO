@@ -13,6 +13,23 @@ namespace ProductSolution
         public double Preco;
         public int Quantidade;
 
+        public Product()
+        {
+        }
+        public Product(string nome, double preco, int quantidade)
+        {
+            Nome = nome;
+            Preco = preco;
+            Quantidade = quantidade;
+        }
+
+        public Product(string nome, double preco)
+        {
+            Nome = nome;
+            Preco = preco;
+            Quantidade = 5;
+        }
+
         public double ValorTotalEstoque()
         {
             return Preco * Quantidade;

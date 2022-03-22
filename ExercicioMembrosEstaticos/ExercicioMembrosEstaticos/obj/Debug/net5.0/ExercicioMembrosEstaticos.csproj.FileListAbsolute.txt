@@ -1,0 +1,16 @@
+C:\projetos\C#POO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\net5.0\ExercicioMembrosEstaticos.exe
+C:\projetos\C#POO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\net5.0\ExercicioMembrosEstaticos.deps.json
+C:\projetos\C#POO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\net5.0\ExercicioMembrosEstaticos.runtimeconfig.json
+C:\projetos\C#POO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\net5.0\ExercicioMembrosEstaticos.runtimeconfig.dev.json
+C:\projetos\C#POO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\net5.0\ExercicioMembrosEstaticos.dll
+C:\projetos\C#POO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\net5.0\ref\ExercicioMembrosEstaticos.dll
+C:\projetos\C#POO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\net5.0\ExercicioMembrosEstaticos.pdb
+C:\projetos\C#POO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net5.0\ExercicioMembrosEstaticos.csproj.AssemblyReference.cache
+C:\projetos\C#POO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net5.0\ExercicioMembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\C#POO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net5.0\ExercicioMembrosEstaticos.AssemblyInfoInputs.cache
+C:\projetos\C#POO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net5.0\ExercicioMembrosEstaticos.AssemblyInfo.cs
+C:\projetos\C#POO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net5.0\ExercicioMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\projetos\C#POO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net5.0\ExercicioMembrosEstaticos.dll
+C:\projetos\C#POO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net5.0\ref\ExercicioMembrosEstaticos.dll
+C:\projetos\C#POO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net5.0\ExercicioMembrosEstaticos.pdb
+C:\projetos\C#POO\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net5.0\ExercicioMembrosEstaticos.genruntimeconfig.cache

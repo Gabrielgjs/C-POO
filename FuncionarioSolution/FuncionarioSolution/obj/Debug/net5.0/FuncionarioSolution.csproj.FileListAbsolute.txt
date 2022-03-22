@@ -1,0 +1,16 @@
+C:\projetos\C#POO\FuncionarioSolution\FuncionarioSolution\bin\Debug\net5.0\FuncionarioSolution.exe
+C:\projetos\C#POO\FuncionarioSolution\FuncionarioSolution\bin\Debug\net5.0\FuncionarioSolution.deps.json
+C:\projetos\C#POO\FuncionarioSolution\FuncionarioSolution\bin\Debug\net5.0\FuncionarioSolution.runtimeconfig.json
+C:\projetos\C#POO\FuncionarioSolution\FuncionarioSolution\bin\Debug\net5.0\FuncionarioSolution.runtimeconfig.dev.json
+C:\projetos\C#POO\FuncionarioSolution\FuncionarioSolution\bin\Debug\net5.0\FuncionarioSolution.dll
+C:\projetos\C#POO\FuncionarioSolution\FuncionarioSolution\bin\Debug\net5.0\ref\FuncionarioSolution.dll
+C:\projetos\C#POO\FuncionarioSolution\FuncionarioSolution\bin\Debug\net5.0\FuncionarioSolution.pdb
+C:\projetos\C#POO\FuncionarioSolution\FuncionarioSolution\obj\Debug\net5.0\FuncionarioSolution.csproj.AssemblyReference.cache
+C:\projetos\C#POO\FuncionarioSolution\FuncionarioSolution\obj\Debug\net5.0\FuncionarioSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\C#POO\FuncionarioSolution\FuncionarioSolution\obj\Debug\net5.0\FuncionarioSolution.AssemblyInfoInputs.cache
+C:\projetos\C#POO\FuncionarioSolution\FuncionarioSolution\obj\Debug\net5.0\FuncionarioSolution.AssemblyInfo.cs
+C:\projetos\C#POO\FuncionarioSolution\FuncionarioSolution\obj\Debug\net5.0\FuncionarioSolution.csproj.CoreCompileInputs.cache
+C:\projetos\C#POO\FuncionarioSolution\FuncionarioSolution\obj\Debug\net5.0\FuncionarioSolution.dll
+C:\projetos\C#POO\FuncionarioSolution\FuncionarioSolution\obj\Debug\net5.0\ref\FuncionarioSolution.dll
+C:\projetos\C#POO\FuncionarioSolution\FuncionarioSolution\obj\Debug\net5.0\FuncionarioSolution.pdb
+C:\projetos\C#POO\FuncionarioSolution\FuncionarioSolution\obj\Debug\net5.0\FuncionarioSolution.genruntimeconfig.cache

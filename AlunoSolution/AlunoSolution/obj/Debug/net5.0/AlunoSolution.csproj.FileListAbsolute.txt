@@ -1,0 +1,16 @@
+C:\projetos\C#POO\AlunoSolution\AlunoSolution\bin\Debug\net5.0\AlunoSolution.exe
+C:\projetos\C#POO\AlunoSolution\AlunoSolution\bin\Debug\net5.0\AlunoSolution.deps.json
+C:\projetos\C#POO\AlunoSolution\AlunoSolution\bin\Debug\net5.0\AlunoSolution.runtimeconfig.json
+C:\projetos\C#POO\AlunoSolution\AlunoSolution\bin\Debug\net5.0\AlunoSolution.runtimeconfig.dev.json
+C:\projetos\C#POO\AlunoSolution\AlunoSolution\bin\Debug\net5.0\AlunoSolution.dll
+C:\projetos\C#POO\AlunoSolution\AlunoSolution\bin\Debug\net5.0\ref\AlunoSolution.dll
+C:\projetos\C#POO\AlunoSolution\AlunoSolution\bin\Debug\net5.0\AlunoSolution.pdb
+C:\projetos\C#POO\AlunoSolution\AlunoSolution\obj\Debug\net5.0\AlunoSolution.csproj.AssemblyReference.cache
+C:\projetos\C#POO\AlunoSolution\AlunoSolution\obj\Debug\net5.0\AlunoSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\C#POO\AlunoSolution\AlunoSolution\obj\Debug\net5.0\AlunoSolution.AssemblyInfoInputs.cache
+C:\projetos\C#POO\AlunoSolution\AlunoSolution\obj\Debug\net5.0\AlunoSolution.AssemblyInfo.cs
+C:\projetos\C#POO\AlunoSolution\AlunoSolution\obj\Debug\net5.0\AlunoSolution.csproj.CoreCompileInputs.cache
+C:\projetos\C#POO\AlunoSolution\AlunoSolution\obj\Debug\net5.0\AlunoSolution.dll
+C:\projetos\C#POO\AlunoSolution\AlunoSolution\obj\Debug\net5.0\ref\AlunoSolution.dll
+C:\projetos\C#POO\AlunoSolution\AlunoSolution\obj\Debug\net5.0\AlunoSolution.pdb
+C:\projetos\C#POO\AlunoSolution\AlunoSolution\obj\Debug\net5.0\AlunoSolution.genruntimeconfig.cache
