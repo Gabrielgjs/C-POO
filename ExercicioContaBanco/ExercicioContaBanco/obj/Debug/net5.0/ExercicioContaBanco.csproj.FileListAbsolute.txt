@@ -1,0 +1,16 @@
+C:\Users\Vostro\Desktop\C-POO\ExercicioContaBanco\ExercicioContaBanco\bin\Debug\net5.0\ExercicioContaBanco.exe
+C:\Users\Vostro\Desktop\C-POO\ExercicioContaBanco\ExercicioContaBanco\bin\Debug\net5.0\ExercicioContaBanco.deps.json
+C:\Users\Vostro\Desktop\C-POO\ExercicioContaBanco\ExercicioContaBanco\bin\Debug\net5.0\ExercicioContaBanco.runtimeconfig.json
+C:\Users\Vostro\Desktop\C-POO\ExercicioContaBanco\ExercicioContaBanco\bin\Debug\net5.0\ExercicioContaBanco.runtimeconfig.dev.json
+C:\Users\Vostro\Desktop\C-POO\ExercicioContaBanco\ExercicioContaBanco\bin\Debug\net5.0\ExercicioContaBanco.dll
+C:\Users\Vostro\Desktop\C-POO\ExercicioContaBanco\ExercicioContaBanco\bin\Debug\net5.0\ref\ExercicioContaBanco.dll
+C:\Users\Vostro\Desktop\C-POO\ExercicioContaBanco\ExercicioContaBanco\bin\Debug\net5.0\ExercicioContaBanco.pdb
+C:\Users\Vostro\Desktop\C-POO\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ExercicioContaBanco.csproj.AssemblyReference.cache
+C:\Users\Vostro\Desktop\C-POO\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ExercicioContaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vostro\Desktop\C-POO\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ExercicioContaBanco.AssemblyInfoInputs.cache
+C:\Users\Vostro\Desktop\C-POO\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ExercicioContaBanco.AssemblyInfo.cs
+C:\Users\Vostro\Desktop\C-POO\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ExercicioContaBanco.csproj.CoreCompileInputs.cache
+C:\Users\Vostro\Desktop\C-POO\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ExercicioContaBanco.dll
+C:\Users\Vostro\Desktop\C-POO\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ref\ExercicioContaBanco.dll
+C:\Users\Vostro\Desktop\C-POO\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ExercicioContaBanco.pdb
+C:\Users\Vostro\Desktop\C-POO\ExercicioContaBanco\ExercicioContaBanco\obj\Debug\net5.0\ExercicioContaBanco.genruntimeconfig.cache

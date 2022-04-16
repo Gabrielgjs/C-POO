@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vostro\\Desktop\\C-POO\\ProductSolution\\ProductSolution\\ProductSolution.csproj": {}
+    "C:\\Users\\Vostro\\Desktop\\C-POO\\ExercicioContaBanco\\ExercicioContaBanco\\ExercicioContaBanco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vostro\\Desktop\\C-POO\\ProductSolution\\ProductSolution\\ProductSolution.csproj": {
+    "C:\\Users\\Vostro\\Desktop\\C-POO\\ExercicioContaBanco\\ExercicioContaBanco\\ExercicioContaBanco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vostro\\Desktop\\C-POO\\ProductSolution\\ProductSolution\\ProductSolution.csproj",
-        "projectName": "ProductSolution",
-        "projectPath": "C:\\Users\\Vostro\\Desktop\\C-POO\\ProductSolution\\ProductSolution\\ProductSolution.csproj",
+        "projectUniqueName": "C:\\Users\\Vostro\\Desktop\\C-POO\\ExercicioContaBanco\\ExercicioContaBanco\\ExercicioContaBanco.csproj",
+        "projectName": "ExercicioContaBanco",
+        "projectPath": "C:\\Users\\Vostro\\Desktop\\C-POO\\ExercicioContaBanco\\ExercicioContaBanco\\ExercicioContaBanco.csproj",
         "packagesPath": "C:\\Users\\Vostro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vostro\\Desktop\\C-POO\\ProductSolution\\ProductSolution\\obj\\",
+        "outputPath": "C:\\Users\\Vostro\\Desktop\\C-POO\\ExercicioContaBanco\\ExercicioContaBanco\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vostro\\AppData\\Roaming\\NuGet\\NuGet.Config",

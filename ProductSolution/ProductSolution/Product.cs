@@ -9,26 +9,37 @@ namespace ProductSolution
 {
     class Product
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+        private string _nome;
+        public double Preco { get; private set; }
+        public int Quantidade { get; private set; }
 
         public Product()
         {
         }
         public Product(string nome, double preco, int quantidade)
         {
-            Nome = nome;
+            _nome = nome;
             Preco = preco;
             Quantidade = quantidade;
         }
 
         public Product(string nome, double preco)
         {
-            Nome = nome;
+            _nome = nome;
             Preco = preco;
             Quantidade = 5;
         }
+
+        //Propertie
+        public string Nome
+        {
+            get { return _nome; }
+            set { if (value != null && value.Length > 1) {
+                    _nome = value;  
+                } 
+            }
+        }
+
 
         public double ValorTotalEstoque()
         {
@@ -47,7 +58,7 @@ namespace ProductSolution
 
         public override string ToString()
         {
-            return Nome
+            return _nome
                 +", $ "
                 + Preco.ToString("F2", CultureInfo.InvariantCulture)
                 +", "
