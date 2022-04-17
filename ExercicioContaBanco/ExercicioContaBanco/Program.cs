@@ -29,6 +29,20 @@ namespace ExercicioContaBanco
             Console.WriteLine();
             Console.WriteLine("Dados da conta: ");
             Console.WriteLine(conta);
+
+            Console.WriteLine();
+            Console.Write("Entre com um valor para o deposito: ");
+            double quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            conta.Deposito(quantia);
+            Console.WriteLine("Dadis da conta atualizados: ");
+            Console.WriteLine(conta);
+
+            Console.WriteLine();
+            Console.Write("Entre com o valor para saque: ");
+            quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            conta.Saque(quantia);
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine(conta);
         }
     }
 }
