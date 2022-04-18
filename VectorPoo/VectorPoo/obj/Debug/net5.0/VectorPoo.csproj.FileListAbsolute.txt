@@ -1,0 +1,15 @@
+C:\Users\Vostro\Desktop\C-POO\VectorPoo\VectorPoo\bin\Debug\net5.0\VectorPoo.exe
+C:\Users\Vostro\Desktop\C-POO\VectorPoo\VectorPoo\bin\Debug\net5.0\VectorPoo.deps.json
+C:\Users\Vostro\Desktop\C-POO\VectorPoo\VectorPoo\bin\Debug\net5.0\VectorPoo.runtimeconfig.json
+C:\Users\Vostro\Desktop\C-POO\VectorPoo\VectorPoo\bin\Debug\net5.0\VectorPoo.runtimeconfig.dev.json
+C:\Users\Vostro\Desktop\C-POO\VectorPoo\VectorPoo\bin\Debug\net5.0\VectorPoo.dll
+C:\Users\Vostro\Desktop\C-POO\VectorPoo\VectorPoo\bin\Debug\net5.0\ref\VectorPoo.dll
+C:\Users\Vostro\Desktop\C-POO\VectorPoo\VectorPoo\bin\Debug\net5.0\VectorPoo.pdb
+C:\Users\Vostro\Desktop\C-POO\VectorPoo\VectorPoo\obj\Debug\net5.0\VectorPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vostro\Desktop\C-POO\VectorPoo\VectorPoo\obj\Debug\net5.0\VectorPoo.AssemblyInfoInputs.cache
+C:\Users\Vostro\Desktop\C-POO\VectorPoo\VectorPoo\obj\Debug\net5.0\VectorPoo.AssemblyInfo.cs
+C:\Users\Vostro\Desktop\C-POO\VectorPoo\VectorPoo\obj\Debug\net5.0\VectorPoo.csproj.CoreCompileInputs.cache
+C:\Users\Vostro\Desktop\C-POO\VectorPoo\VectorPoo\obj\Debug\net5.0\VectorPoo.dll
+C:\Users\Vostro\Desktop\C-POO\VectorPoo\VectorPoo\obj\Debug\net5.0\ref\VectorPoo.dll
+C:\Users\Vostro\Desktop\C-POO\VectorPoo\VectorPoo\obj\Debug\net5.0\VectorPoo.pdb
+C:\Users\Vostro\Desktop\C-POO\VectorPoo\VectorPoo\obj\Debug\net5.0\VectorPoo.genruntimeconfig.cache
