@@ -1,0 +1,16 @@
+C:\Users\Vostro\Desktop\C-POO\ModificadorParametroRefOut\ModificadorParametroRefOut\bin\Debug\net5.0\ModificadorParametroRefOut.exe
+C:\Users\Vostro\Desktop\C-POO\ModificadorParametroRefOut\ModificadorParametroRefOut\bin\Debug\net5.0\ModificadorParametroRefOut.deps.json
+C:\Users\Vostro\Desktop\C-POO\ModificadorParametroRefOut\ModificadorParametroRefOut\bin\Debug\net5.0\ModificadorParametroRefOut.runtimeconfig.json
+C:\Users\Vostro\Desktop\C-POO\ModificadorParametroRefOut\ModificadorParametroRefOut\bin\Debug\net5.0\ModificadorParametroRefOut.runtimeconfig.dev.json
+C:\Users\Vostro\Desktop\C-POO\ModificadorParametroRefOut\ModificadorParametroRefOut\bin\Debug\net5.0\ModificadorParametroRefOut.dll
+C:\Users\Vostro\Desktop\C-POO\ModificadorParametroRefOut\ModificadorParametroRefOut\bin\Debug\net5.0\ref\ModificadorParametroRefOut.dll
+C:\Users\Vostro\Desktop\C-POO\ModificadorParametroRefOut\ModificadorParametroRefOut\bin\Debug\net5.0\ModificadorParametroRefOut.pdb
+C:\Users\Vostro\Desktop\C-POO\ModificadorParametroRefOut\ModificadorParametroRefOut\obj\Debug\net5.0\ModificadorParametroRefOut.csproj.AssemblyReference.cache
+C:\Users\Vostro\Desktop\C-POO\ModificadorParametroRefOut\ModificadorParametroRefOut\obj\Debug\net5.0\ModificadorParametroRefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vostro\Desktop\C-POO\ModificadorParametroRefOut\ModificadorParametroRefOut\obj\Debug\net5.0\ModificadorParametroRefOut.AssemblyInfoInputs.cache
+C:\Users\Vostro\Desktop\C-POO\ModificadorParametroRefOut\ModificadorParametroRefOut\obj\Debug\net5.0\ModificadorParametroRefOut.AssemblyInfo.cs
+C:\Users\Vostro\Desktop\C-POO\ModificadorParametroRefOut\ModificadorParametroRefOut\obj\Debug\net5.0\ModificadorParametroRefOut.csproj.CoreCompileInputs.cache
+C:\Users\Vostro\Desktop\C-POO\ModificadorParametroRefOut\ModificadorParametroRefOut\obj\Debug\net5.0\ModificadorParametroRefOut.dll
+C:\Users\Vostro\Desktop\C-POO\ModificadorParametroRefOut\ModificadorParametroRefOut\obj\Debug\net5.0\ref\ModificadorParametroRefOut.dll
+C:\Users\Vostro\Desktop\C-POO\ModificadorParametroRefOut\ModificadorParametroRefOut\obj\Debug\net5.0\ModificadorParametroRefOut.pdb
+C:\Users\Vostro\Desktop\C-POO\ModificadorParametroRefOut\ModificadorParametroRefOut\obj\Debug\net5.0\ModificadorParametroRefOut.genruntimeconfig.cache
