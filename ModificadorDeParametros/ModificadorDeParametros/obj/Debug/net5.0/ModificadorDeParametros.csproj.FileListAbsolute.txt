@@ -1,0 +1,16 @@
+C:\Users\Vostro\Desktop\C-POO\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\net5.0\ModificadorDeParametros.exe
+C:\Users\Vostro\Desktop\C-POO\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\net5.0\ModificadorDeParametros.deps.json
+C:\Users\Vostro\Desktop\C-POO\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\net5.0\ModificadorDeParametros.runtimeconfig.json
+C:\Users\Vostro\Desktop\C-POO\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\net5.0\ModificadorDeParametros.runtimeconfig.dev.json
+C:\Users\Vostro\Desktop\C-POO\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\net5.0\ModificadorDeParametros.dll
+C:\Users\Vostro\Desktop\C-POO\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\net5.0\ref\ModificadorDeParametros.dll
+C:\Users\Vostro\Desktop\C-POO\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\net5.0\ModificadorDeParametros.pdb
+C:\Users\Vostro\Desktop\C-POO\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net5.0\ModificadorDeParametros.csproj.AssemblyReference.cache
+C:\Users\Vostro\Desktop\C-POO\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net5.0\ModificadorDeParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vostro\Desktop\C-POO\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net5.0\ModificadorDeParametros.AssemblyInfoInputs.cache
+C:\Users\Vostro\Desktop\C-POO\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net5.0\ModificadorDeParametros.AssemblyInfo.cs
+C:\Users\Vostro\Desktop\C-POO\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net5.0\ModificadorDeParametros.csproj.CoreCompileInputs.cache
+C:\Users\Vostro\Desktop\C-POO\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net5.0\ModificadorDeParametros.dll
+C:\Users\Vostro\Desktop\C-POO\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net5.0\ref\ModificadorDeParametros.dll
+C:\Users\Vostro\Desktop\C-POO\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net5.0\ModificadorDeParametros.pdb
+C:\Users\Vostro\Desktop\C-POO\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net5.0\ModificadorDeParametros.genruntimeconfig.cache

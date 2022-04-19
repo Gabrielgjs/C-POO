@@ -1,0 +1,16 @@
+C:\Users\Vostro\Desktop\C-POO\ExercicioVetorAluguelQuartos\ExercicioVetorAluguelQuartos\bin\Debug\net5.0\ExercicioVetorAluguelQuartos.exe
+C:\Users\Vostro\Desktop\C-POO\ExercicioVetorAluguelQuartos\ExercicioVetorAluguelQuartos\bin\Debug\net5.0\ExercicioVetorAluguelQuartos.deps.json
+C:\Users\Vostro\Desktop\C-POO\ExercicioVetorAluguelQuartos\ExercicioVetorAluguelQuartos\bin\Debug\net5.0\ExercicioVetorAluguelQuartos.runtimeconfig.json
+C:\Users\Vostro\Desktop\C-POO\ExercicioVetorAluguelQuartos\ExercicioVetorAluguelQuartos\bin\Debug\net5.0\ExercicioVetorAluguelQuartos.runtimeconfig.dev.json
+C:\Users\Vostro\Desktop\C-POO\ExercicioVetorAluguelQuartos\ExercicioVetorAluguelQuartos\bin\Debug\net5.0\ExercicioVetorAluguelQuartos.dll
+C:\Users\Vostro\Desktop\C-POO\ExercicioVetorAluguelQuartos\ExercicioVetorAluguelQuartos\bin\Debug\net5.0\ref\ExercicioVetorAluguelQuartos.dll
+C:\Users\Vostro\Desktop\C-POO\ExercicioVetorAluguelQuartos\ExercicioVetorAluguelQuartos\bin\Debug\net5.0\ExercicioVetorAluguelQuartos.pdb
+C:\Users\Vostro\Desktop\C-POO\ExercicioVetorAluguelQuartos\ExercicioVetorAluguelQuartos\obj\Debug\net5.0\ExercicioVetorAluguelQuartos.csproj.AssemblyReference.cache
+C:\Users\Vostro\Desktop\C-POO\ExercicioVetorAluguelQuartos\ExercicioVetorAluguelQuartos\obj\Debug\net5.0\ExercicioVetorAluguelQuartos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vostro\Desktop\C-POO\ExercicioVetorAluguelQuartos\ExercicioVetorAluguelQuartos\obj\Debug\net5.0\ExercicioVetorAluguelQuartos.AssemblyInfoInputs.cache
+C:\Users\Vostro\Desktop\C-POO\ExercicioVetorAluguelQuartos\ExercicioVetorAluguelQuartos\obj\Debug\net5.0\ExercicioVetorAluguelQuartos.AssemblyInfo.cs
+C:\Users\Vostro\Desktop\C-POO\ExercicioVetorAluguelQuartos\ExercicioVetorAluguelQuartos\obj\Debug\net5.0\ExercicioVetorAluguelQuartos.csproj.CoreCompileInputs.cache
+C:\Users\Vostro\Desktop\C-POO\ExercicioVetorAluguelQuartos\ExercicioVetorAluguelQuartos\obj\Debug\net5.0\ExercicioVetorAluguelQuartos.dll
+C:\Users\Vostro\Desktop\C-POO\ExercicioVetorAluguelQuartos\ExercicioVetorAluguelQuartos\obj\Debug\net5.0\ref\ExercicioVetorAluguelQuartos.dll
+C:\Users\Vostro\Desktop\C-POO\ExercicioVetorAluguelQuartos\ExercicioVetorAluguelQuartos\obj\Debug\net5.0\ExercicioVetorAluguelQuartos.pdb
+C:\Users\Vostro\Desktop\C-POO\ExercicioVetorAluguelQuartos\ExercicioVetorAluguelQuartos\obj\Debug\net5.0\ExercicioVetorAluguelQuartos.genruntimeconfig.cache
