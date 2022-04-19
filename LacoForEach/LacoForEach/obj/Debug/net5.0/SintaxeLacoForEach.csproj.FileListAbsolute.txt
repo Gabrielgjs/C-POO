@@ -1,0 +1,15 @@
+C:\Users\Vostro\Desktop\C-POO\LacoForEach\LacoForEach\bin\Debug\net5.0\SintaxeLacoForEach.exe
+C:\Users\Vostro\Desktop\C-POO\LacoForEach\LacoForEach\bin\Debug\net5.0\SintaxeLacoForEach.deps.json
+C:\Users\Vostro\Desktop\C-POO\LacoForEach\LacoForEach\bin\Debug\net5.0\SintaxeLacoForEach.runtimeconfig.json
+C:\Users\Vostro\Desktop\C-POO\LacoForEach\LacoForEach\bin\Debug\net5.0\SintaxeLacoForEach.runtimeconfig.dev.json
+C:\Users\Vostro\Desktop\C-POO\LacoForEach\LacoForEach\bin\Debug\net5.0\SintaxeLacoForEach.dll
+C:\Users\Vostro\Desktop\C-POO\LacoForEach\LacoForEach\bin\Debug\net5.0\ref\SintaxeLacoForEach.dll
+C:\Users\Vostro\Desktop\C-POO\LacoForEach\LacoForEach\bin\Debug\net5.0\SintaxeLacoForEach.pdb
+C:\Users\Vostro\Desktop\C-POO\LacoForEach\LacoForEach\obj\Debug\net5.0\SintaxeLacoForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vostro\Desktop\C-POO\LacoForEach\LacoForEach\obj\Debug\net5.0\SintaxeLacoForEach.AssemblyInfoInputs.cache
+C:\Users\Vostro\Desktop\C-POO\LacoForEach\LacoForEach\obj\Debug\net5.0\SintaxeLacoForEach.AssemblyInfo.cs
+C:\Users\Vostro\Desktop\C-POO\LacoForEach\LacoForEach\obj\Debug\net5.0\SintaxeLacoForEach.csproj.CoreCompileInputs.cache
+C:\Users\Vostro\Desktop\C-POO\LacoForEach\LacoForEach\obj\Debug\net5.0\SintaxeLacoForEach.dll
+C:\Users\Vostro\Desktop\C-POO\LacoForEach\LacoForEach\obj\Debug\net5.0\ref\SintaxeLacoForEach.dll
+C:\Users\Vostro\Desktop\C-POO\LacoForEach\LacoForEach\obj\Debug\net5.0\SintaxeLacoForEach.pdb
+C:\Users\Vostro\Desktop\C-POO\LacoForEach\LacoForEach\obj\Debug\net5.0\SintaxeLacoForEach.genruntimeconfig.cache
