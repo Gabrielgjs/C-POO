@@ -1,0 +1,16 @@
+C:\Users\Vostro\Desktop\C-POO\Matriz\Matriz\bin\Debug\net5.0\Matriz.exe
+C:\Users\Vostro\Desktop\C-POO\Matriz\Matriz\bin\Debug\net5.0\Matriz.deps.json
+C:\Users\Vostro\Desktop\C-POO\Matriz\Matriz\bin\Debug\net5.0\Matriz.runtimeconfig.json
+C:\Users\Vostro\Desktop\C-POO\Matriz\Matriz\bin\Debug\net5.0\Matriz.runtimeconfig.dev.json
+C:\Users\Vostro\Desktop\C-POO\Matriz\Matriz\bin\Debug\net5.0\Matriz.dll
+C:\Users\Vostro\Desktop\C-POO\Matriz\Matriz\bin\Debug\net5.0\ref\Matriz.dll
+C:\Users\Vostro\Desktop\C-POO\Matriz\Matriz\bin\Debug\net5.0\Matriz.pdb
+C:\Users\Vostro\Desktop\C-POO\Matriz\Matriz\obj\Debug\net5.0\Matriz.csproj.AssemblyReference.cache
+C:\Users\Vostro\Desktop\C-POO\Matriz\Matriz\obj\Debug\net5.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vostro\Desktop\C-POO\Matriz\Matriz\obj\Debug\net5.0\Matriz.AssemblyInfoInputs.cache
+C:\Users\Vostro\Desktop\C-POO\Matriz\Matriz\obj\Debug\net5.0\Matriz.AssemblyInfo.cs
+C:\Users\Vostro\Desktop\C-POO\Matriz\Matriz\obj\Debug\net5.0\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Vostro\Desktop\C-POO\Matriz\Matriz\obj\Debug\net5.0\Matriz.dll
+C:\Users\Vostro\Desktop\C-POO\Matriz\Matriz\obj\Debug\net5.0\ref\Matriz.dll
+C:\Users\Vostro\Desktop\C-POO\Matriz\Matriz\obj\Debug\net5.0\Matriz.pdb
+C:\Users\Vostro\Desktop\C-POO\Matriz\Matriz\obj\Debug\net5.0\Matriz.genruntimeconfig.cache
